@@ -1,2 +1,0 @@
-# Synthetic, non-functional test value
-ghp_000000000000000000000000000000000000
