@@ -1,2 +1,0 @@
-# Synthetic test data only - not a real credential
-Authorization: Bearer dummy-test-value-not-a-real-token
