@@ -1,3 +1,0 @@
-# Synthetic test data only - not a real AWS credential
-MONGODB_URI=mongodb+srv://vipin09:vipinsohal@cluster0.ch8fpsn.mongodb.net/
-aws_secret_access_key = "EXAMPLE_NOT_A_REAL_SECRET_KEY"
